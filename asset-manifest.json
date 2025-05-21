@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Typing_Speed/static/css/main.a2503aa0.css",
+    "main.js": "/Typing_Speed/static/js/main.cdf2714c.js",
+    "static/js/453.0dcaf961.chunk.js": "/Typing_Speed/static/js/453.0dcaf961.chunk.js",
+    "index.html": "/Typing_Speed/index.html",
+    "main.a2503aa0.css.map": "/Typing_Speed/static/css/main.a2503aa0.css.map",
+    "main.cdf2714c.js.map": "/Typing_Speed/static/js/main.cdf2714c.js.map",
+    "453.0dcaf961.chunk.js.map": "/Typing_Speed/static/js/453.0dcaf961.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2503aa0.css",
+    "static/js/main.cdf2714c.js"
+  ]
+}
