@@ -1,0 +1,80 @@
+.app {
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 10px;
+  text-align: center;
+}
+
+.container {
+  padding: 20px;
+  border-radius: 10px;
+  background: #f4f6fa;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  font-size: 2.8rem;
+  margin-bottom: 20px;
+}
+
+.sentence-display {
+  font-size: 2.2rem;
+  margin-bottom: 30px;
+  padding: 15px;
+  background-color: white;
+  border-radius: 10px;
+  border: 2px solid #ddd;
+  min-height: 120px;
+  line-height: 1.5;
+  user-select: none;
+  text-align: left;
+}
+
+.sentence-display span.correct {
+  color: green;
+}
+
+.sentence-display span.incorrect {
+  color: red;
+  text-decoration: underline;
+}
+
+textarea {
+  width: 100%;
+  font-size: 1.6rem;
+  padding: 12px;
+  border-radius: 8px;
+  border: 2px solid #ccc;
+  resize: none;
+  box-sizing: border-box;
+  outline: none;
+  margin-bottom: 15px;
+}
+
+textarea:disabled {
+  background-color: #eee;
+}
+
+.info {
+  display: flex;
+  justify-content: space-around;
+  font-size: 1.3rem;
+  margin-bottom: 20px;
+}
+
+button {
+  font-size: 1.4rem;
+  padding: 12px 30px;
+  cursor: pointer;
+  border-radius: 8px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
